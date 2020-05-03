@@ -1,0 +1,1210 @@
+:Monkey: seed=1564093672841 count=1000
+:AllowPackage: com.zhubajie.client
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Selecting main activities from category android.intent.category.LAUNCHER
+//   - NOT USING main activity com.android.contacts.PeopleActivityAlias (from package com.android.contacts)
+//   - NOT USING main activity com.android.contacts.DialtactsActivityAlias (from package com.android.contacts)
+//   - NOT USING main activity com.android.mms.ui.ConversationList (from package com.android.mms)
+//   - NOT USING main activity com.oppo.gallery3d.app.Gallery (from package com.coloros.gallery3d)
+//   - NOT USING main activity com.oppo.settings.SettingsActivity (from package com.android.settings)
+//   - NOT USING main activity com.android.calendar.AllInOneActivity (from package com.android.calendar)
+//   - NOT USING main activity oppo.multimedia.soundrecorder.RecorderActivity (from package com.coloros.soundrecorder)
+//   - NOT USING main activity com.oppo.camera.Camera (from package com.oppo.camera)
+//   - NOT USING main activity com.oppo.music.UnsupportCheckActivity (from package com.oppo.music)
+//   - NOT USING main activity com.android.browser.BrowserActivity (from package com.android.browser)
+//   - NOT USING main activity com.oppo.usercenter.vip.UCVIPMainActivity (from package com.oppo.usercenter)
+//   - NOT USING main activity com.supercleaner.ui.SplashActivity (from package com.supercleaner)
+//   - NOT USING main activity com.looktm.eye.mvp.splash.SplashGuideActivity (from package com.looktm.eye)
+//   - NOT USING main activity com.coloros.backuprestore.activity.BootActivity (from package com.coloros.backuprestore)
+//   - NOT USING main activity com.coloros.alarmclock.AlarmClock (from package com.coloros.alarmclock)
+//   - NOT USING main activity com.coloros.filemanager.Main (from package com.coloros.filemanager)
+//   - NOT USING main activity com.coloros.safecenter.FakeActivity (from package com.coloros.safecenter)
+//   - NOT USING main activity com.oppo.market.activity.MainActivity (from package com.oppo.market)
+//   - NOT USING main activity com.nearme.themespace.activities.ThemeActivity (from package com.nearme.themespace)
+//   - NOT USING main activity com.nearme.gamecenter.ui.activity.SplashActivity (from package com.nearme.gamecenter)
+//   - NOT USING main activity com.android.calculator2.Calculator (from package com.android.calculator2)
+//   - NOT USING main activity com.coloros.weather.OppoMainActivity (from package com.coloros.weather)
+//   - NOT USING main activity com.qihoo.contents.launcher.LauncherActivity (from package com.qihoo.contents)
+//   - NOT USING main activity com.UCMobile.main.UCMobile (from package com.UCMobile)
+//   - NOT USING main activity com.baidu.searchbox.SplashActivity (from package com.baidu.searchbox)
+//   - NOT USING main activity com.baidu.browser.framework.BdBrowserActivity (from package com.baidu.browser.apps)
+//   - NOT USING main activity com.zhubajie.app.main_frame.version.WelcomeActivity (from package com.zhubajie.witkey)
+//   - NOT USING main activity com.coloros.compass.flat.FlatCompass (from package com.coloros.compass)
+//   - NOT USING main activity com.tencent.mobileqq.activity.SplashActivity (from package com.tencent.mobileqq)
+//   - NOT USING main activity com.xuedakun.switchhosts.MainActivity (from package com.xuedakun.switchhosts)
+//   - NOT USING main activity com.tencent.mm.ui.LauncherUI (from package com.tencent.mm)
+//   - NOT USING main activity com.tencent.mtt.SplashActivity (from package com.tencent.mtt)
+//   - NOT USING main activity com.zhihu.android.app.ui.activity.LauncherActivity (from package com.zhihu.android)
+//   + Using main activity com.zhubajie.bundle_basic.home.LauncherActivity (from package com.zhubajie.client)
+// Selecting main activities from category android.intent.category.MONKEY
+//   - NOT USING main activity com.android.settings.Settings$RunningServicesActivity (from package com.android.settings)
+//   - NOT USING main activity com.android.settings.Settings$StorageUseActivity (from package com.android.settings)
+//   - NOT USING main activity com.oppo.launcher.Launcher (from package com.oppo.launcher)
+//   - NOT USING main activity com.coloros.providers.downloads.ui.DownloadListActivity (from package com.coloros.providers.downloads.ui)
+// Seeded: 1564093672841
+// Event percentages:
+//   0: 50.0%
+//   1: 50.0%
+//   2: 0.0%
+//   3: 0.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 0.0%
+//   7: 0.0%
+//   8: 0.0%
+//   9: 0.0%
+//   10: 0.0%
+//   11: 0.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.zhubajie.client/com.zhubajie.bundle_basic.home.LauncherActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.zhubajie.client/com.zhubajie.bundle_basic.home.LauncherActivity } in package com.zhubajie.client
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(369.0,373.0)
+:Sending Touch (ACTION_MOVE): 0:(368.3378,357.3589)
+:Sending Touch (ACTION_MOVE): 0:(368.23404,338.62033)
+:Sending Touch (ACTION_UP): 0:(367.7056,324.83746)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(744.0,783.0)
+:Sending Touch (ACTION_MOVE): 0:(741.3286,770.071)
+:Sending Touch (ACTION_MOVE): 0:(722.22064,758.4477)
+:Sending Touch (ACTION_MOVE): 0:(722.1438,753.67834)
+:Sending Touch (ACTION_MOVE): 0:(712.11536,738.53955)
+:Sending Touch (ACTION_MOVE): 0:(701.9672,724.5078)
+:Sending Touch (ACTION_UP): 0:(686.38824,711.4672)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(462.0,356.0)
+:Sending Touch (ACTION_UP): 0:(464.65286,356.27243)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(527.0,1419.0)
+:Sending Touch (ACTION_UP): 0:(523.92914,1413.5448)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.zhubajie.client/com.zhubajie.bundle_server_new.ui.ServiceDetailInfoActivity (has extras) } in package com.zhubajie.client
+:Sending Touch (ACTION_DOWN): 0:(843.0,1609.0)
+:Sending Touch (ACTION_UP): 0:(843.1316,1610.8794)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(222.0,1429.0)
+:Sending Touch (ACTION_UP): 0:(219.81262,1428.0765)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(712.0,1735.0)
+:Sending Touch (ACTION_UP): 0:(712.4968,1737.6273)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(223.0,62.0)
+:Sending Touch (ACTION_MOVE): 0:(226.70818,54.641724)
+:Sending Touch (ACTION_MOVE): 0:(226.97603,46.46093)
+:Sending Touch (ACTION_MOVE): 0:(228.32985,29.539272)
+:Sending Touch (ACTION_MOVE): 0:(228.85864,14.490063)
+:Sending Touch (ACTION_MOVE): 0:(232.6567,0.0)
+:Sending Touch (ACTION_UP): 0:(236.33939,0.0)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(1023.0,1513.0)
+:Sending Touch (ACTION_UP): 0:(1023.9999,1533.2659)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.zhubajie.client/com.zhubajie.bundle_basic.web.BridgeWebActivity (has extras) } in package com.zhubajie.client
+:Sending Touch (ACTION_DOWN): 0:(313.0,248.0)
+:Sending Touch (ACTION_MOVE): 0:(315.35562,236.53973)
+:Sending Touch (ACTION_MOVE): 0:(316.35852,234.75644)
+:Sending Touch (ACTION_MOVE): 0:(317.33884,219.25597)
+:Sending Touch (ACTION_MOVE): 0:(317.36035,208.9952)
+:Sending Touch (ACTION_MOVE): 0:(318.1842,198.52411)
+:Sending Touch (ACTION_MOVE): 0:(320.78134,191.34814)
+:Sending Touch (ACTION_UP): 0:(322.46774,183.78207)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(986.0,199.0)
+:Sending Touch (ACTION_MOVE): 0:(987.3311,208.46051)
+:Sending Touch (ACTION_MOVE): 0:(989.7963,212.39116)
+:Sending Touch (ACTION_MOVE): 0:(991.57635,214.82976)
+:Sending Touch (ACTION_MOVE): 0:(995.94116,219.07387)
+:Sending Touch (ACTION_MOVE): 0:(996.48535,222.67346)
+:Sending Touch (ACTION_MOVE): 0:(996.91833,226.23727)
+:Sending Touch (ACTION_MOVE): 0:(1000.78235,228.00314)
+:Sending Touch (ACTION_UP): 0:(1001.3805,232.2212)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(750.0,1009.0)
+:Sending Touch (ACTION_UP): 0:(751.25336,1014.23157)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(315.0,1191.0)
+:Sending Touch (ACTION_UP): 0:(295.0932,1188.0328)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(143.0,885.0)
+:Sending Touch (ACTION_MOVE): 0:(126.98869,885.26624)
+:Sending Touch (ACTION_MOVE): 0:(108.896324,886.0825)
+:Sending Touch (ACTION_UP): 0:(91.491974,887.2181)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(983.0,962.0)
+:Sending Touch (ACTION_UP): 0:(986.3569,951.9818)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(157.0,194.0)
+:Sending Touch (ACTION_MOVE): 0:(152.58038,195.08179)
+:Sending Touch (ACTION_MOVE): 0:(151.90237,196.06223)
+:Sending Touch (ACTION_MOVE): 0:(147.76521,197.12457)
+:Sending Touch (ACTION_MOVE): 0:(146.20981,197.75858)
+:Sending Touch (ACTION_MOVE): 0:(143.6857,198.19168)
+:Sending Touch (ACTION_MOVE): 0:(141.0282,198.89091)
+:Sending Touch (ACTION_UP): 0:(140.88475,199.64766)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(625.0,577.0)
+:Sending Touch (ACTION_MOVE): 0:(625.7743,578.14575)
+:Sending Touch (ACTION_MOVE): 0:(626.2772,578.8481)
+:Sending Touch (ACTION_MOVE): 0:(626.3727,579.714)
+:Sending Touch (ACTION_MOVE): 0:(627.24603,580.7802)
+:Sending Touch (ACTION_UP): 0:(627.6493,582.01495)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(451.0,329.0)
+:Sending Touch (ACTION_UP): 0:(452.17963,332.8725)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(760.0,749.0)
+:Sending Touch (ACTION_MOVE): 0:(777.5872,749.74084)
+:Sending Touch (ACTION_MOVE): 0:(780.0955,756.14716)
+:Sending Touch (ACTION_MOVE): 0:(785.85095,763.037)
+:Sending Touch (ACTION_MOVE): 0:(796.8466,765.9906)
+:Sending Touch (ACTION_UP): 0:(806.8921,769.99274)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(652.0,589.0)
+:Sending Touch (ACTION_MOVE): 0:(647.79395,590.83954)
+:Sending Touch (ACTION_MOVE): 0:(645.308,590.9293)
+:Sending Touch (ACTION_MOVE): 0:(642.2363,591.10486)
+:Sending Touch (ACTION_MOVE): 0:(635.0196,592.4618)
+:Sending Touch (ACTION_MOVE): 0:(633.21124,592.88165)
+:Sending Touch (ACTION_MOVE): 0:(623.8549,593.39453)
+:Sending Touch (ACTION_UP): 0:(622.0553,593.9949)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.zhubajie.client/com.zhubajie.widget.gallery.ViewPagerActivity (has extras) } in package com.zhubajie.client
+:Sending Touch (ACTION_DOWN): 0:(765.0,1170.0)
+:Sending Touch (ACTION_UP): 0:(787.7442,1171.8656)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(776.0,848.0)
+:Sending Touch (ACTION_UP): 0:(777.6527,844.9019)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(495.0,1830.0)
+:Sending Touch (ACTION_UP): 0:(499.6943,1838.0201)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(22.0,1242.0)
+:Sending Touch (ACTION_MOVE): 0:(13.845055,1246.0277)
+:Sending Touch (ACTION_MOVE): 0:(6.2238255,1251.1622)
+:Sending Touch (ACTION_MOVE): 0:(0.0,1254.7714)
+:Sending Touch (ACTION_MOVE): 0:(0.0,1259.575)
+:Sending Touch (ACTION_MOVE): 0:(0.0,1261.1412)
+    //[calendar_time:2019-07-24 16:46:27.109  system_uptime:27523686]
+    // Sending event #100
+:Sending Touch (ACTION_MOVE): 0:(0.0,1263.3146)
+:Sending Touch (ACTION_MOVE): 0:(0.0,1263.5225)
+:Sending Touch (ACTION_MOVE): 0:(0.0,1268.8126)
+:Sending Touch (ACTION_MOVE): 0:(0.0,1271.8699)
+:Sending Touch (ACTION_UP): 0:(0.0,1277.4725)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(666.0,529.0)
+:Sending Touch (ACTION_MOVE): 0:(660.73145,537.96466)
+:Sending Touch (ACTION_MOVE): 0:(657.92926,543.79407)
+:Sending Touch (ACTION_MOVE): 0:(650.0837,554.20355)
+:Sending Touch (ACTION_MOVE): 0:(641.90576,562.44)
+:Sending Touch (ACTION_MOVE): 0:(620.0473,567.3066)
+:Sending Touch (ACTION_MOVE): 0:(606.91046,574.51416)
+:Sending Touch (ACTION_MOVE): 0:(605.5789,576.877)
+:Sending Touch (ACTION_UP): 0:(593.1414,580.1506)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(1.0,46.0)
+:Sending Touch (ACTION_MOVE): 0:(0.0,51.085194)
+:Sending Touch (ACTION_MOVE): 0:(0.0,55.051346)
+:Sending Touch (ACTION_MOVE): 0:(0.0,63.61551)
+:Sending Touch (ACTION_MOVE): 0:(0.0,65.54629)
+:Sending Touch (ACTION_MOVE): 0:(0.0,74.39307)
+:Sending Touch (ACTION_MOVE): 0:(0.0,77.23667)
+:Sending Touch (ACTION_MOVE): 0:(0.0,81.87239)
+:Sending Touch (ACTION_MOVE): 0:(0.0,85.56005)
+:Sending Touch (ACTION_UP): 0:(0.0,92.72789)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(871.0,984.0)
+:Sending Touch (ACTION_MOVE): 0:(889.5297,987.93634)
+:Sending Touch (ACTION_MOVE): 0:(902.8163,996.26514)
+:Sending Touch (ACTION_MOVE): 0:(914.30804,1001.618)
+:Sending Touch (ACTION_MOVE): 0:(919.1297,1005.49207)
+:Sending Touch (ACTION_MOVE): 0:(924.3392,1009.3598)
+:Sending Touch (ACTION_MOVE): 0:(932.8787,1019.0931)
+:Sending Touch (ACTION_UP): 0:(950.285,1026.3367)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(624.0,904.0)
+:Sending Touch (ACTION_UP): 0:(624.6799,917.2694)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(102.0,140.0)
+:Sending Touch (ACTION_UP): 0:(94.94727,135.86107)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(660.0,961.0)
+:Sending Touch (ACTION_UP): 0:(659.2491,968.1128)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(747.0,1165.0)
+:Sending Touch (ACTION_MOVE): 0:(749.2689,1168.3531)
+:Sending Touch (ACTION_MOVE): 0:(753.9948,1172.2587)
+:Sending Touch (ACTION_MOVE): 0:(758.78766,1176.3896)
+:Sending Touch (ACTION_MOVE): 0:(762.951,1177.8058)
+:Sending Touch (ACTION_MOVE): 0:(769.16583,1180.637)
+:Sending Touch (ACTION_UP): 0:(769.1764,1181.1543)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(905.0,27.0)
+:Sending Touch (ACTION_MOVE): 0:(904.41705,30.256325)
+:Sending Touch (ACTION_MOVE): 0:(902.69867,43.877728)
+:Sending Touch (ACTION_MOVE): 0:(901.81476,53.70253)
+:Sending Touch (ACTION_MOVE): 0:(897.6544,69.28891)
+:Sending Touch (ACTION_MOVE): 0:(895.1469,71.4563)
+:Sending Touch (ACTION_MOVE): 0:(893.7726,80.04263)
+:Sending Touch (ACTION_MOVE): 0:(889.5367,83.43883)
+:Sending Touch (ACTION_MOVE): 0:(887.9553,84.51072)
+:Sending Touch (ACTION_UP): 0:(885.5187,102.49841)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(456.0,283.0)
+:Sending Touch (ACTION_UP): 0:(452.5698,275.01462)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(477.0,741.0)
+:Sending Touch (ACTION_UP): 0:(474.61917,738.0128)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(258.0,16.0)
+:Sending Touch (ACTION_UP): 0:(244.06154,21.88229)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(200.0,208.0)
+:Sending Touch (ACTION_MOVE): 0:(201.03603,206.43968)
+:Sending Touch (ACTION_MOVE): 0:(212.72144,205.95013)
+:Sending Touch (ACTION_MOVE): 0:(214.1654,204.20966)
+:Sending Touch (ACTION_MOVE): 0:(224.16296,202.52235)
+:Sending Touch (ACTION_UP): 0:(233.41464,198.6599)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(293.0,351.0)
+:Sending Touch (ACTION_UP): 0:(295.78186,363.8184)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.zhubajie.client/com.zhubajie.bundle_shop.ShopActivity (has extras) } in package com.zhubajie.client
+:Sending Touch (ACTION_DOWN): 0:(576.0,797.0)
+:Sending Touch (ACTION_MOVE): 0:(580.4683,800.3441)
+:Sending Touch (ACTION_MOVE): 0:(599.8674,811.24786)
+:Sending Touch (ACTION_MOVE): 0:(622.22485,814.95807)
+:Sending Touch (ACTION_MOVE): 0:(626.8961,816.9203)
+:Sending Touch (ACTION_MOVE): 0:(640.513,818.3639)
+:Sending Touch (ACTION_UP): 0:(652.80695,833.3759)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(333.0,1766.0)
+:Sending Touch (ACTION_MOVE): 0:(322.54523,1765.7823)
+:Sending Touch (ACTION_MOVE): 0:(321.33536,1763.9589)
+:Sending Touch (ACTION_MOVE): 0:(316.16675,1761.9634)
+:Sending Touch (ACTION_MOVE): 0:(304.82748,1761.3046)
+:Sending Touch (ACTION_UP): 0:(296.64395,1760.3483)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(690.0,439.0)
+:Sending Touch (ACTION_MOVE): 0:(687.54724,435.39417)
+:Sending Touch (ACTION_MOVE): 0:(684.8961,433.76834)
+:Sending Touch (ACTION_MOVE): 0:(683.9993,431.12735)
+:Sending Touch (ACTION_MOVE): 0:(680.53644,429.15973)
+:Sending Touch (ACTION_MOVE): 0:(676.97906,427.21982)
+:Sending Touch (ACTION_MOVE): 0:(674.0818,424.76178)
+:Sending Touch (ACTION_UP): 0:(670.10016,423.3424)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(815.0,1593.0)
+:Sending Touch (ACTION_MOVE): 0:(833.9882,1587.0524)
+:Sending Touch (ACTION_MOVE): 0:(846.62354,1581.8907)
+:Sending Touch (ACTION_MOVE): 0:(854.6437,1573.8102)
+:Sending Touch (ACTION_MOVE): 0:(867.6734,1571.5413)
+:Sending Touch (ACTION_MOVE): 0:(871.31433,1568.2019)
+:Sending Touch (ACTION_MOVE): 0:(873.89014,1564.3954)
+:Sending Touch (ACTION_MOVE): 0:(874.1671,1556.4166)
+:Sending Touch (ACTION_MOVE): 0:(894.20624,1555.6979)
+:Sending Touch (ACTION_MOVE): 0:(914.77216,1549.9424)
+    //[calendar_time:2019-07-24 16:46:32.406  system_uptime:27528983]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(926.9816,1546.8302)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(1065.0,1204.0)
+:Sending Touch (ACTION_UP): 0:(1067.5781,1206.0479)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.zhubajie.client/com.zhubajie.bundle_shop.ShopActivity (has extras) } in package com.zhubajie.client
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(600.0,1389.0)
+:Sending Touch (ACTION_UP): 0:(591.72687,1401.3479)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(310.0,993.0)
+:Sending Touch (ACTION_UP): 0:(313.76227,996.82324)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(163.0,1629.0)
+:Sending Touch (ACTION_UP): 0:(170.82402,1630.8973)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.zhubajie.client/com.zhubajie.widget.gallery.ViewPagerActivity (has extras) } in package com.zhubajie.client
+:Sending Touch (ACTION_DOWN): 0:(562.0,74.0)
+:Sending Touch (ACTION_UP): 0:(562.9103,75.68406)
+    // activityResuming(com.zhubajie.client)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(481.0,720.0)
+:Sending Touch (ACTION_MOVE): 0:(494.234,737.1456)
+:Sending Touch (ACTION_MOVE): 0:(504.9631,756.3001)
+:Sending Touch (ACTION_MOVE): 0:(519.1805,770.3857)
+:Sending Touch (ACTION_MOVE): 0:(529.0042,776.9901)
+:Sending Touch (ACTION_MOVE): 0:(544.7302,779.1381)
+:Sending Touch (ACTION_MOVE): 0:(551.308,783.3912)
+:Sending Touch (ACTION_MOVE): 0:(568.2658,786.73566)
+:Sending Touch (ACTION_MOVE): 0:(568.27637,802.6734)
+:Sending Touch (ACTION_UP): 0:(569.35956,804.0273)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(180.0,1648.0)
+:Sending Touch (ACTION_UP): 0:(178.07295,1649.2571)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.zhubajie.client/com.zhubajie.widget.gallery.ViewPagerActivity (has extras) } in package com.zhubajie.client
+:Sending Touch (ACTION_DOWN): 0:(865.0,1011.0)
+:Sending Touch (ACTION_UP): 0:(876.7421,1009.3182)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(750.0,1230.0)
+:Sending Touch (ACTION_MOVE): 0:(735.92194,1228.3914)
+:Sending Touch (ACTION_MOVE): 0:(728.7348,1227.0657)
+:Sending Touch (ACTION_MOVE): 0:(726.4061,1224.6229)
+:Sending Touch (ACTION_MOVE): 0:(715.43475,1222.4045)
+:Sending Touch (ACTION_UP): 0:(706.5407,1220.5005)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(239.0,1393.0)
+:Sending Touch (ACTION_MOVE): 0:(235.40631,1412.9187)
+:Sending Touch (ACTION_MOVE): 0:(232.78548,1434.9504)
+:Sending Touch (ACTION_MOVE): 0:(232.2641,1435.6968)
+:Sending Touch (ACTION_MOVE): 0:(222.74915,1454.2313)
+:Sending Touch (ACTION_MOVE): 0:(213.92142,1463.7866)
+:Sending Touch (ACTION_UP): 0:(212.01595,1478.576)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(1029.0,640.0)
+:Sending Touch (ACTION_UP): 0:(1037.6284,623.4931)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(699.0,796.0)
+:Sending Touch (ACTION_MOVE): 0:(703.8222,794.078)
+:Sending Touch (ACTION_MOVE): 0:(708.0598,790.9382)
+:Sending Touch (ACTION_MOVE): 0:(710.34406,788.74786)
+:Sending Touch (ACTION_MOVE): 0:(713.32056,787.60425)
+:Sending Touch (ACTION_MOVE): 0:(718.5208,785.1574)
+:Sending Touch (ACTION_MOVE): 0:(721.7529,781.70123)
+:Sending Touch (ACTION_MOVE): 0:(721.8189,777.48395)
+:Sending Touch (ACTION_UP): 0:(731.188,777.2606)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(234.0,1451.0)
+:Sending Touch (ACTION_MOVE): 0:(222.02695,1452.9822)
+:Sending Touch (ACTION_MOVE): 0:(211.89734,1466.3466)
+:Sending Touch (ACTION_MOVE): 0:(199.07939,1479.2424)
+:Sending Touch (ACTION_MOVE): 0:(183.89438,1493.9141)
+:Sending Touch (ACTION_MOVE): 0:(166.82436,1502.327)
+:Sending Touch (ACTION_MOVE): 0:(155.42128,1503.958)
+:Sending Touch (ACTION_UP): 0:(147.02756,1514.1481)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(90.0,422.0)
+:Sending Touch (ACTION_MOVE): 0:(96.329216,426.26566)
+:Sending Touch (ACTION_MOVE): 0:(100.352066,427.6133)
+:Sending Touch (ACTION_MOVE): 0:(105.77616,436.21082)
+:Sending Touch (ACTION_MOVE): 0:(111.05556,437.76126)
+:Sending Touch (ACTION_MOVE): 0:(111.203636,439.12857)
+:Sending Touch (ACTION_MOVE): 0:(121.62068,447.05338)
+:Sending Touch (ACTION_MOVE): 0:(127.40219,452.5428)
+:Sending Touch (ACTION_UP): 0:(135.61064,457.6809)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(282.0,320.0)
+:Sending Touch (ACTION_MOVE): 0:(283.98035,339.0455)
+:Sending Touch (ACTION_MOVE): 0:(286.0784,345.43463)
+:Sending Touch (ACTION_MOVE): 0:(289.10428,346.78503)
+:Sending Touch (ACTION_MOVE): 0:(291.992,367.03632)
+:Sending Touch (ACTION_MOVE): 0:(292.36496,368.35538)
+:Sending Touch (ACTION_MOVE): 0:(292.3784,371.05515)
+:Sending Touch (ACTION_MOVE): 0:(293.14847,379.9309)
+:Sending Touch (ACTION_UP): 0:(295.5366,397.2637)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(200.0,83.0)
+:Sending Touch (ACTION_UP): 0:(200.47678,97.10494)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(252.0,1064.0)
+:Sending Touch (ACTION_UP): 0:(254.3612,1074.555)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(498.0,1466.0)
+:Sending Touch (ACTION_UP): 0:(505.2449,1467.9425)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(780.0,1475.0)
+:Sending Touch (ACTION_MOVE): 0:(782.49274,1466.0228)
+:Sending Touch (ACTION_UP): 0:(790.6941,1456.3464)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(415.0,1358.0)
+:Sending Touch (ACTION_UP): 0:(403.55923,1372.8273)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(740.0,1116.0)
+:Sending Touch (ACTION_MOVE): 0:(742.761,1096.3604)
+:Sending Touch (ACTION_MOVE): 0:(747.96075,1090.0842)
+:Sending Touch (ACTION_MOVE): 0:(750.55023,1083.3113)
+:Sending Touch (ACTION_MOVE): 0:(771.3469,1067.9078)
+:Sending Touch (ACTION_MOVE): 0:(788.9266,1048.8558)
+:Sending Touch (ACTION_MOVE): 0:(810.54376,1043.0352)
+:Sending Touch (ACTION_UP): 0:(829.0595,1020.6148)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(767.0,116.0)
+:Sending Touch (ACTION_MOVE): 0:(763.6187,130.03784)
+:Sending Touch (ACTION_MOVE): 0:(763.4801,146.64218)
+:Sending Touch (ACTION_MOVE): 0:(763.2447,169.15758)
+:Sending Touch (ACTION_MOVE): 0:(757.3849,169.93268)
+:Sending Touch (ACTION_MOVE): 0:(746.25146,174.61453)
+    //[calendar_time:2019-07-24 16:46:39.945  system_uptime:27536522]
+    // Sending event #300
+:Sending Touch (ACTION_MOVE): 0:(744.5854,184.69225)
+:Sending Touch (ACTION_MOVE): 0:(743.33594,185.44945)
+:Sending Touch (ACTION_MOVE): 0:(737.4095,206.98358)
+:Sending Touch (ACTION_UP): 0:(724.9159,226.40984)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(1009.0,199.0)
+:Sending Touch (ACTION_MOVE): 0:(1019.00354,203.11552)
+:Sending Touch (ACTION_MOVE): 0:(1019.8824,204.76491)
+:Sending Touch (ACTION_MOVE): 0:(1031.8726,210.59021)
+:Sending Touch (ACTION_MOVE): 0:(1041.1672,215.31615)
+:Sending Touch (ACTION_MOVE): 0:(1043.9497,218.73532)
+:Sending Touch (ACTION_MOVE): 0:(1051.2008,222.09583)
+:Sending Touch (ACTION_MOVE): 0:(1056.5615,227.79079)
+:Sending Touch (ACTION_MOVE): 0:(1057.0553,233.60205)
+:Sending Touch (ACTION_UP): 0:(1069.2424,236.67195)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(824.0,1397.0)
+:Sending Touch (ACTION_MOVE): 0:(821.9699,1397.4293)
+:Sending Touch (ACTION_MOVE): 0:(818.0661,1403.2166)
+:Sending Touch (ACTION_MOVE): 0:(808.3905,1410.7233)
+:Sending Touch (ACTION_MOVE): 0:(803.46674,1416.0892)
+:Sending Touch (ACTION_MOVE): 0:(800.86694,1416.9259)
+:Sending Touch (ACTION_MOVE): 0:(800.4906,1421.0646)
+:Sending Touch (ACTION_MOVE): 0:(791.38416,1425.6013)
+:Sending Touch (ACTION_UP): 0:(783.1878,1430.5768)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(427.0,527.0)
+:Sending Touch (ACTION_MOVE): 0:(427.80228,527.54047)
+:Sending Touch (ACTION_MOVE): 0:(428.27597,527.6029)
+:Sending Touch (ACTION_UP): 0:(428.76196,528.8842)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(528.0,1637.0)
+:Sending Touch (ACTION_MOVE): 0:(526.62006,1641.4824)
+:Sending Touch (ACTION_MOVE): 0:(524.85034,1644.687)
+:Sending Touch (ACTION_MOVE): 0:(516.0274,1647.7257)
+:Sending Touch (ACTION_MOVE): 0:(511.45288,1664.4191)
+:Sending Touch (ACTION_MOVE): 0:(492.96103,1666.8632)
+:Sending Touch (ACTION_UP): 0:(489.27365,1674.0824)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(628.0,1686.0)
+:Sending Touch (ACTION_MOVE): 0:(624.48315,1691.7125)
+:Sending Touch (ACTION_MOVE): 0:(623.9506,1695.2338)
+:Sending Touch (ACTION_UP): 0:(622.3474,1701.4036)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(539.0,1675.0)
+:Sending Touch (ACTION_MOVE): 0:(538.9532,1687.63)
+:Sending Touch (ACTION_MOVE): 0:(536.0317,1701.0995)
+:Sending Touch (ACTION_MOVE): 0:(532.53937,1710.1681)
+:Sending Touch (ACTION_MOVE): 0:(530.2768,1719.0532)
+:Sending Touch (ACTION_MOVE): 0:(526.93427,1730.0925)
+:Sending Touch (ACTION_MOVE): 0:(523.5963,1730.2651)
+:Sending Touch (ACTION_UP): 0:(523.18896,1737.9103)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(820.0,1416.0)
+:Sending Touch (ACTION_UP): 0:(809.8225,1406.045)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(330.0,1103.0)
+:Sending Touch (ACTION_UP): 0:(335.45944,1084.3604)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(928.0,229.0)
+:Sending Touch (ACTION_UP): 0:(940.1914,228.93758)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(880.0,105.0)
+:Sending Touch (ACTION_UP): 0:(881.90234,123.83593)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(931.0,751.0)
+:Sending Touch (ACTION_UP): 0:(927.3294,753.61835)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(846.0,1402.0)
+:Sending Touch (ACTION_MOVE): 0:(852.0682,1414.3293)
+:Sending Touch (ACTION_MOVE): 0:(856.44183,1416.3214)
+:Sending Touch (ACTION_MOVE): 0:(861.3202,1428.919)
+:Sending Touch (ACTION_MOVE): 0:(867.64075,1440.9998)
+:Sending Touch (ACTION_MOVE): 0:(870.51166,1449.337)
+:Sending Touch (ACTION_MOVE): 0:(875.3291,1464.6119)
+:Sending Touch (ACTION_MOVE): 0:(877.0419,1469.5212)
+:Sending Touch (ACTION_MOVE): 0:(877.50653,1473.0626)
+:Sending Touch (ACTION_UP): 0:(880.7546,1481.9257)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(775.0,1761.0)
+:Sending Touch (ACTION_UP): 0:(780.339,1748.8502)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(1068.0,1196.0)
+:Sending Touch (ACTION_UP): 0:(1066.185,1206.4358)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(537.0,1698.0)
+:Sending Touch (ACTION_MOVE): 0:(530.1054,1700.6047)
+:Sending Touch (ACTION_MOVE): 0:(524.1084,1703.1464)
+:Sending Touch (ACTION_MOVE): 0:(504.4765,1704.2123)
+:Sending Touch (ACTION_MOVE): 0:(495.80142,1708.1156)
+:Sending Touch (ACTION_MOVE): 0:(474.05334,1711.4901)
+:Sending Touch (ACTION_UP): 0:(456.80252,1712.3279)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(774.0,1234.0)
+:Sending Touch (ACTION_UP): 0:(794.82336,1234.0093)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(749.0,1310.0)
+:Sending Touch (ACTION_MOVE): 0:(746.92456,1306.95)
+:Sending Touch (ACTION_MOVE): 0:(744.6907,1300.5808)
+:Sending Touch (ACTION_UP): 0:(740.5175,1300.369)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(64.0,416.0)
+:Sending Touch (ACTION_UP): 0:(50.20315,409.6412)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(384.0,1003.0)
+:Sending Touch (ACTION_UP): 0:(384.26758,1007.81335)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(475.0,1516.0)
+:Sending Touch (ACTION_UP): 0:(471.4252,1518.2233)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(798.0,1729.0)
+:Sending Touch (ACTION_UP): 0:(816.837,1729.8867)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(140.0,1714.0)
+:Sending Touch (ACTION_UP): 0:(147.39992,1719.2637)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(1042.0,893.0)
+:Sending Touch (ACTION_UP): 0:(1053.8607,884.188)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(1001.0,513.0)
+:Sending Touch (ACTION_UP): 0:(1002.9686,512.9813)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.zhubajie.client/com.zhubajie.bundle_shop.activities.ShopDataActivity (has extras) } in package com.zhubajie.client
+:Sending Touch (ACTION_DOWN): 0:(778.0,1857.0)
+:Sending Touch (ACTION_MOVE): 0:(780.74695,1864.4705)
+:Sending Touch (ACTION_MOVE): 0:(781.7425,1867.4735)
+    //[calendar_time:2019-07-24 16:46:47.762  system_uptime:27544339]
+    // Sending event #400
+:Sending Touch (ACTION_MOVE): 0:(781.7603,1870.9082)
+:Sending Touch (ACTION_UP): 0:(782.2844,1878.5265)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(770.0,1.0)
+:Sending Touch (ACTION_UP): 0:(746.8869,2.1972194)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(1015.0,1327.0)
+:Sending Touch (ACTION_UP): 0:(996.2264,1336.6418)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(813.0,1072.0)
+:Sending Touch (ACTION_MOVE): 0:(807.42975,1084.0161)
+:Sending Touch (ACTION_MOVE): 0:(804.97437,1101.8435)
+:Sending Touch (ACTION_MOVE): 0:(795.52094,1121.9211)
+:Sending Touch (ACTION_MOVE): 0:(786.7511,1123.7037)
+:Sending Touch (ACTION_MOVE): 0:(781.02356,1138.0886)
+:Sending Touch (ACTION_MOVE): 0:(770.7099,1155.0092)
+:Sending Touch (ACTION_MOVE): 0:(767.61694,1163.644)
+:Sending Touch (ACTION_MOVE): 0:(755.0073,1179.3285)
+:Sending Touch (ACTION_MOVE): 0:(752.59485,1182.5454)
+:Sending Touch (ACTION_UP): 0:(744.97,1189.6846)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(601.0,1297.0)
+:Sending Touch (ACTION_MOVE): 0:(584.84766,1297.3494)
+:Sending Touch (ACTION_MOVE): 0:(568.40533,1297.534)
+:Sending Touch (ACTION_MOVE): 0:(556.7733,1297.9271)
+:Sending Touch (ACTION_MOVE): 0:(554.4624,1298.121)
+:Sending Touch (ACTION_MOVE): 0:(541.00275,1298.376)
+:Sending Touch (ACTION_MOVE): 0:(535.3791,1298.4613)
+:Sending Touch (ACTION_MOVE): 0:(526.6466,1298.8754)
+:Sending Touch (ACTION_MOVE): 0:(519.46893,1298.9093)
+:Sending Touch (ACTION_UP): 0:(507.77756,1299.2822)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(0.0,1548.0)
+:Sending Touch (ACTION_MOVE): 0:(0.0,1547.1555)
+:Sending Touch (ACTION_MOVE): 0:(0.0,1544.2996)
+:Sending Touch (ACTION_MOVE): 0:(0.0,1536.4353)
+:Sending Touch (ACTION_UP): 0:(0.0,1527.7247)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(782.0,1732.0)
+:Sending Touch (ACTION_UP): 0:(786.4578,1731.2673)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(540.0,1408.0)
+:Sending Touch (ACTION_UP): 0:(537.6618,1393.2987)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(793.0,1469.0)
+:Sending Touch (ACTION_UP): 0:(788.61194,1471.3209)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(548.0,1300.0)
+:Sending Touch (ACTION_MOVE): 0:(554.6189,1290.2148)
+:Sending Touch (ACTION_MOVE): 0:(561.2702,1269.5895)
+:Sending Touch (ACTION_MOVE): 0:(570.48804,1266.833)
+:Sending Touch (ACTION_UP): 0:(576.82513,1255.1895)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(948.0,1382.0)
+:Sending Touch (ACTION_UP): 0:(958.70984,1371.8586)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(683.0,53.0)
+:Sending Touch (ACTION_UP): 0:(682.89026,52.207314)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(295.0,851.0)
+:Sending Touch (ACTION_UP): 0:(296.41678,850.6875)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(53.0,1163.0)
+:Sending Touch (ACTION_UP): 0:(45.01329,1166.6091)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(82.0,1222.0)
+:Sending Touch (ACTION_UP): 0:(79.04547,1233.2299)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(696.0,1048.0)
+:Sending Touch (ACTION_UP): 0:(698.01764,1044.2427)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(504.0,1802.0)
+:Sending Touch (ACTION_MOVE): 0:(520.72205,1797.1415)
+:Sending Touch (ACTION_MOVE): 0:(525.7291,1791.466)
+:Sending Touch (ACTION_MOVE): 0:(527.9581,1787.7715)
+:Sending Touch (ACTION_MOVE): 0:(533.70245,1779.8118)
+:Sending Touch (ACTION_MOVE): 0:(533.83057,1769.2706)
+:Sending Touch (ACTION_MOVE): 0:(542.7941,1762.5366)
+:Sending Touch (ACTION_MOVE): 0:(551.6857,1752.8822)
+:Sending Touch (ACTION_MOVE): 0:(557.0667,1751.8079)
+:Sending Touch (ACTION_MOVE): 0:(567.2164,1742.739)
+:Sending Touch (ACTION_UP): 0:(586.7532,1741.6918)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(689.0,867.0)
+:Sending Touch (ACTION_MOVE): 0:(688.4558,866.9075)
+:Sending Touch (ACTION_UP): 0:(687.91425,866.37756)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(490.0,1321.0)
+:Sending Touch (ACTION_UP): 0:(487.08615,1326.3748)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(948.0,288.0)
+:Sending Touch (ACTION_MOVE): 0:(948.5147,287.89044)
+:Sending Touch (ACTION_MOVE): 0:(952.9656,287.87518)
+:Sending Touch (ACTION_MOVE): 0:(953.47675,287.86282)
+:Sending Touch (ACTION_MOVE): 0:(961.19855,287.76965)
+:Sending Touch (ACTION_MOVE): 0:(971.30414,287.66696)
+:Sending Touch (ACTION_MOVE): 0:(976.6585,287.58456)
+:Sending Touch (ACTION_MOVE): 0:(986.43744,287.52866)
+:Sending Touch (ACTION_UP): 0:(990.378,287.4821)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(741.0,71.0)
+:Sending Touch (ACTION_UP): 0:(737.3716,86.24115)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(416.0,1060.0)
+:Sending Touch (ACTION_UP): 0:(405.32135,1059.3452)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(501.0,886.0)
+:Sending Touch (ACTION_MOVE): 0:(499.05032,885.6936)
+:Sending Touch (ACTION_UP): 0:(497.69022,884.8567)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(843.0,679.0)
+:Sending Touch (ACTION_UP): 0:(845.24396,691.75104)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(623.0,167.0)
+:Sending Touch (ACTION_UP): 0:(620.9815,156.79063)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(594.0,809.0)
+:Sending Touch (ACTION_UP): 0:(593.41003,808.5783)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.zhubajie.client/com.zhubajie.bundle_basic.web.BridgeWebActivity (has extras) } in package com.zhubajie.client
+:Sending Touch (ACTION_DOWN): 0:(338.0,1286.0)
+:Sending Touch (ACTION_UP): 0:(317.41132,1285.6993)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(41.0,1552.0)
+:Sending Touch (ACTION_UP): 0:(40.558727,1551.9917)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(222.0,78.0)
+:Sending Touch (ACTION_UP): 0:(210.66791,73.6395)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(1036.0,1784.0)
+    //[calendar_time:2019-07-24 16:46:56.800  system_uptime:27553377]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(1024.7917,1783.9303)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(626.0,1811.0)
+:Sending Touch (ACTION_UP): 0:(625.9772,1821.1564)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(915.0,585.0)
+:Sending Touch (ACTION_UP): 0:(924.3353,595.00116)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(1027.0,257.0)
+:Sending Touch (ACTION_UP): 0:(1037.2096,257.64944)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(742.0,269.0)
+:Sending Touch (ACTION_MOVE): 0:(725.2654,271.99466)
+:Sending Touch (ACTION_MOVE): 0:(723.1312,281.1387)
+:Sending Touch (ACTION_MOVE): 0:(709.28894,283.93326)
+:Sending Touch (ACTION_MOVE): 0:(691.37476,288.96478)
+:Sending Touch (ACTION_MOVE): 0:(673.1892,296.32004)
+:Sending Touch (ACTION_UP): 0:(672.5013,300.4676)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(195.0,144.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(212.262,136.76184)
+    // Injection Failed
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(856.0,724.0)
+:Sending Touch (ACTION_UP): 0:(867.37445,722.5183)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(1061.0,1274.0)
+:Sending Touch (ACTION_UP): 0:(1070.8009,1276.9436)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(993.0,350.0)
+:Sending Touch (ACTION_UP): 0:(999.2916,343.00647)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+    // Allowing start of Intent { cmp=com.zhubajie.client/com.zhubajie.widget.gallery.ViewPagerActivity (has extras) } in package com.zhubajie.client
+:Sending Touch (ACTION_DOWN): 0:(701.0,1661.0)
+:Sending Touch (ACTION_MOVE): 0:(695.806,1669.0071)
+:Sending Touch (ACTION_MOVE): 0:(691.99207,1680.1833)
+:Sending Touch (ACTION_MOVE): 0:(690.0738,1686.3285)
+:Sending Touch (ACTION_MOVE): 0:(683.4265,1696.5518)
+:Sending Touch (ACTION_MOVE): 0:(679.44855,1712.4053)
+:Sending Touch (ACTION_MOVE): 0:(667.88104,1713.8735)
+:Sending Touch (ACTION_MOVE): 0:(660.2284,1719.9103)
+:Sending Touch (ACTION_MOVE): 0:(656.8555,1730.2767)
+:Sending Touch (ACTION_UP): 0:(655.0392,1743.606)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(884.0,318.0)
+:Sending Touch (ACTION_MOVE): 0:(864.3465,318.94492)
+:Sending Touch (ACTION_MOVE): 0:(842.89606,319.0119)
+:Sending Touch (ACTION_MOVE): 0:(836.5878,319.17978)
+:Sending Touch (ACTION_UP): 0:(821.5031,320.26132)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(589.0,27.0)
+:Sending Touch (ACTION_UP): 0:(585.985,28.182285)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(123.0,174.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(124.52395,169.20982)
+    // Injection Failed
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(867.0,1307.0)
+:Sending Touch (ACTION_UP): 0:(866.52795,1302.3469)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.zhubajie.client/com.zhubajie.bundle_server_new.ui.ServiceDetailInfoActivity (has extras) } in package com.zhubajie.client
+:Sending Touch (ACTION_DOWN): 0:(390.0,53.0)
+:Sending Touch (ACTION_MOVE): 0:(390.57846,51.16853)
+:Sending Touch (ACTION_MOVE): 0:(390.80215,30.827044)
+:Sending Touch (ACTION_MOVE): 0:(391.97168,13.384766)
+:Sending Touch (ACTION_MOVE): 0:(392.1735,5.339197)
+:Sending Touch (ACTION_MOVE): 0:(392.9627,0.0)
+:Sending Touch (ACTION_MOVE): 0:(393.59274,0.0)
+:Sending Touch (ACTION_UP): 0:(393.6402,0.0)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(247.0,803.0)
+:Sending Touch (ACTION_MOVE): 0:(250.17383,806.1762)
+:Sending Touch (ACTION_UP): 0:(253.66331,811.338)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(623.0,688.0)
+:Sending Touch (ACTION_UP): 0:(624.45166,709.3203)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(458.0,1910.0)
+:Sending Touch (ACTION_MOVE): 0:(451.19254,1911.1772)
+:Sending Touch (ACTION_MOVE): 0:(442.47293,1916.2229)
+:Sending Touch (ACTION_UP): 0:(436.1825,1920.0)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(85.0,1030.0)
+:Sending Touch (ACTION_UP): 0:(85.145805,1032.242)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(752.0,983.0)
+:Sending Touch (ACTION_MOVE): 0:(748.1093,965.1542)
+:Sending Touch (ACTION_MOVE): 0:(743.69556,957.3109)
+:Sending Touch (ACTION_MOVE): 0:(735.2541,947.51605)
+:Sending Touch (ACTION_MOVE): 0:(731.14954,941.8675)
+:Sending Touch (ACTION_MOVE): 0:(727.9728,922.41486)
+:Sending Touch (ACTION_MOVE): 0:(725.5495,906.7759)
+:Sending Touch (ACTION_MOVE): 0:(716.2043,897.3222)
+:Sending Touch (ACTION_MOVE): 0:(705.24963,883.53033)
+:Sending Touch (ACTION_MOVE): 0:(696.7418,879.64734)
+:Sending Touch (ACTION_UP): 0:(695.45404,875.58356)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(529.0,361.0)
+:Sending Touch (ACTION_UP): 0:(530.53217,357.67273)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(254.0,1740.0)
+:Sending Touch (ACTION_UP): 0:(233.63248,1743.6918)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(358.0,70.0)
+:Sending Touch (ACTION_MOVE): 0:(355.98135,87.89214)
+:Sending Touch (ACTION_UP): 0:(352.33386,99.54261)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(874.0,166.0)
+:Sending Touch (ACTION_UP): 0:(871.8548,161.56766)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(751.0,1861.0)
+:Sending Touch (ACTION_UP): 0:(756.10077,1858.577)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(710.0,1738.0)
+:Sending Touch (ACTION_MOVE): 0:(712.8426,1727.6887)
+:Sending Touch (ACTION_MOVE): 0:(720.9003,1724.6415)
+:Sending Touch (ACTION_UP): 0:(729.1366,1707.394)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { flg=0x10000000 cmp=com.zhubajie.client/com.readystatesoftware.chuck.internal.ui.MainActivity } in package com.zhubajie.client
+:Sending Touch (ACTION_DOWN): 0:(390.0,1057.0)
+:Sending Touch (ACTION_MOVE): 0:(398.36526,1044.0646)
+:Sending Touch (ACTION_MOVE): 0:(411.39264,1038.9169)
+:Sending Touch (ACTION_MOVE): 0:(421.70996,1030.6553)
+:Sending Touch (ACTION_MOVE): 0:(426.90533,1026.7797)
+:Sending Touch (ACTION_UP): 0:(439.77444,1026.0149)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(667.0,1625.0)
+:Sending Touch (ACTION_MOVE): 0:(676.91656,1620.2286)
+:Sending Touch (ACTION_MOVE): 0:(681.65076,1614.36)
+:Sending Touch (ACTION_MOVE): 0:(686.1658,1604.7244)
+:Sending Touch (ACTION_UP): 0:(693.6996,1603.2369)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(1058.0,1911.0)
+    //[calendar_time:2019-07-24 16:47:05.432  system_uptime:27562009]
+    // Sending event #600
+:Sending Touch (ACTION_UP): 0:(1054.5361,1903.97)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(52.0,1372.0)
+:Sending Touch (ACTION_UP): 0:(41.249405,1371.6216)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.zhubajie.client/com.zhubajie.bundle_basic.web.BridgeWebActivity (has extras) } in package com.zhubajie.client
+:Sending Touch (ACTION_DOWN): 0:(280.0,1605.0)
+:Sending Touch (ACTION_MOVE): 0:(278.5221,1600.6288)
+:Sending Touch (ACTION_MOVE): 0:(276.0251,1595.6217)
+:Sending Touch (ACTION_MOVE): 0:(275.43,1593.0337)
+:Sending Touch (ACTION_MOVE): 0:(273.41638,1591.4484)
+:Sending Touch (ACTION_MOVE): 0:(273.29465,1588.3768)
+:Sending Touch (ACTION_MOVE): 0:(271.25098,1585.4924)
+:Sending Touch (ACTION_MOVE): 0:(270.2967,1583.3176)
+:Sending Touch (ACTION_UP): 0:(269.88248,1579.1254)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(12.0,949.0)
+:Sending Touch (ACTION_UP): 0:(23.497425,942.43365)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(464.0,971.0)
+:Sending Touch (ACTION_UP): 0:(455.74936,972.898)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(645.0,1785.0)
+:Sending Touch (ACTION_MOVE): 0:(643.2208,1790.1646)
+:Sending Touch (ACTION_UP): 0:(639.0503,1792.8986)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { flg=0x10000000 cmp=com.zhubajie.client/com.readystatesoftware.chuck.internal.ui.MainActivity } in package com.zhubajie.client
+:Sending Touch (ACTION_DOWN): 0:(862.0,957.0)
+:Sending Touch (ACTION_UP): 0:(864.9188,965.685)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.zhubajie.client/com.readystatesoftware.chuck.internal.ui.TransactionActivity (has extras) } in package com.zhubajie.client
+:Sending Touch (ACTION_DOWN): 0:(801.0,970.0)
+:Sending Touch (ACTION_UP): 0:(799.4153,954.0966)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(791.0,1790.0)
+:Sending Touch (ACTION_MOVE): 0:(793.74133,1803.2797)
+:Sending Touch (ACTION_MOVE): 0:(795.5742,1811.0061)
+:Sending Touch (ACTION_MOVE): 0:(796.5997,1822.496)
+:Sending Touch (ACTION_MOVE): 0:(796.9679,1833.151)
+:Sending Touch (ACTION_MOVE): 0:(797.5215,1841.9606)
+:Sending Touch (ACTION_MOVE): 0:(800.1009,1843.9536)
+:Sending Touch (ACTION_MOVE): 0:(803.24066,1848.4537)
+:Sending Touch (ACTION_UP): 0:(804.29785,1848.7357)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(364.0,456.0)
+:Sending Touch (ACTION_MOVE): 0:(365.82867,453.6731)
+:Sending Touch (ACTION_MOVE): 0:(373.65967,449.23074)
+:Sending Touch (ACTION_MOVE): 0:(378.88538,443.8116)
+:Sending Touch (ACTION_MOVE): 0:(380.97614,441.70172)
+:Sending Touch (ACTION_MOVE): 0:(383.51306,434.0595)
+:Sending Touch (ACTION_MOVE): 0:(385.92685,427.05484)
+:Sending Touch (ACTION_MOVE): 0:(388.90042,426.80847)
+:Sending Touch (ACTION_UP): 0:(394.01874,421.0679)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(481.0,706.0)
+:Sending Touch (ACTION_MOVE): 0:(468.03815,712.43756)
+:Sending Touch (ACTION_MOVE): 0:(466.73648,724.06213)
+:Sending Touch (ACTION_MOVE): 0:(450.04413,731.9135)
+:Sending Touch (ACTION_MOVE): 0:(437.32028,735.9977)
+:Sending Touch (ACTION_MOVE): 0:(430.3492,741.53094)
+:Sending Touch (ACTION_MOVE): 0:(430.11844,749.6166)
+:Sending Touch (ACTION_UP): 0:(415.6986,755.2845)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(126.0,1103.0)
+:Sending Touch (ACTION_UP): 0:(130.83481,1107.9423)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(519.0,705.0)
+:Sending Touch (ACTION_MOVE): 0:(528.67816,720.87244)
+:Sending Touch (ACTION_MOVE): 0:(547.5826,727.81354)
+:Sending Touch (ACTION_MOVE): 0:(566.5463,736.886)
+:Sending Touch (ACTION_MOVE): 0:(585.0079,741.6831)
+:Sending Touch (ACTION_MOVE): 0:(603.28577,749.8359)
+:Sending Touch (ACTION_UP): 0:(623.3683,759.83685)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(842.0,130.0)
+:Sending Touch (ACTION_UP): 0:(821.5676,126.84628)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(318.0,1034.0)
+:Sending Touch (ACTION_MOVE): 0:(316.94458,1021.8681)
+:Sending Touch (ACTION_MOVE): 0:(315.51218,1006.63715)
+:Sending Touch (ACTION_MOVE): 0:(312.81937,994.0501)
+:Sending Touch (ACTION_MOVE): 0:(311.7516,980.47894)
+:Sending Touch (ACTION_MOVE): 0:(311.28903,963.1777)
+:Sending Touch (ACTION_MOVE): 0:(310.99924,948.82916)
+:Sending Touch (ACTION_MOVE): 0:(309.4927,933.1488)
+:Sending Touch (ACTION_MOVE): 0:(308.07367,917.90564)
+:Sending Touch (ACTION_MOVE): 0:(305.691,906.3888)
+:Sending Touch (ACTION_UP): 0:(305.3294,904.47534)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(342.0,1257.0)
+:Sending Touch (ACTION_UP): 0:(333.5751,1252.496)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.zhubajie.client/com.zhubajie.bundle_server_new.ui.ServiceDetailInfoActivity (has extras) } in package com.zhubajie.client
+:Sending Touch (ACTION_DOWN): 0:(162.0,1325.0)
+:Sending Touch (ACTION_UP): 0:(162.21516,1321.7944)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(551.0,1576.0)
+:Sending Touch (ACTION_MOVE): 0:(537.1579,1581.828)
+:Sending Touch (ACTION_MOVE): 0:(522.0328,1588.0122)
+:Sending Touch (ACTION_UP): 0:(511.20538,1597.3315)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(754.0,178.0)
+:Sending Touch (ACTION_MOVE): 0:(751.84576,185.2972)
+:Sending Touch (ACTION_MOVE): 0:(747.5982,196.91492)
+:Sending Touch (ACTION_UP): 0:(741.82416,197.37587)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(211.0,1913.0)
+:Sending Touch (ACTION_MOVE): 0:(231.08429,1913.3071)
+:Sending Touch (ACTION_MOVE): 0:(250.85919,1914.542)
+:Sending Touch (ACTION_MOVE): 0:(271.68616,1914.9131)
+:Sending Touch (ACTION_MOVE): 0:(286.5139,1916.1827)
+:Sending Touch (ACTION_MOVE): 0:(305.01068,1917.1294)
+:Sending Touch (ACTION_MOVE): 0:(321.8751,1917.7007)
+:Sending Touch (ACTION_MOVE): 0:(330.96817,1918.205)
+:Sending Touch (ACTION_MOVE): 0:(331.19492,1918.9773)
+:Sending Touch (ACTION_MOVE): 0:(347.7605,1919.2705)
+:Sending Touch (ACTION_UP): 0:(364.7612,1919.3492)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(974.0,1112.0)
+:Sending Touch (ACTION_MOVE): 0:(969.8956,1115.917)
+:Sending Touch (ACTION_MOVE): 0:(949.9894,1123.7115)
+:Sending Touch (ACTION_MOVE): 0:(941.4155,1128.6906)
+:Sending Touch (ACTION_MOVE): 0:(925.4348,1136.7437)
+:Sending Touch (ACTION_UP): 0:(908.7781,1143.689)
+    //[calendar_time:2019-07-24 16:47:11.632  system_uptime:27568209]
+    // Sending event #700
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.zhubajie.client/com.zhubajie.bundle_server_new.ui.ServiceDetailInfoActivity (has extras) } in package com.zhubajie.client
+    //[calendar_time:2019-07-24 16:47:11.933  system_uptime:27568510]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(184.0,1828.0)
+:Sending Touch (ACTION_UP): 0:(182.42038,1829.5479)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(1021.0,1186.0)
+:Sending Touch (ACTION_MOVE): 0:(1023.589,1185.7443)
+:Sending Touch (ACTION_MOVE): 0:(1025.3214,1180.6543)
+:Sending Touch (ACTION_MOVE): 0:(1041.4769,1173.0726)
+:Sending Touch (ACTION_MOVE): 0:(1050.4978,1165.4287)
+:Sending Touch (ACTION_MOVE): 0:(1062.6908,1154.4672)
+:Sending Touch (ACTION_MOVE): 0:(1076.8712,1142.2468)
+:Sending Touch (ACTION_MOVE): 0:(1080.0,1137.5648)
+:Sending Touch (ACTION_MOVE): 0:(1080.0,1132.2626)
+:Sending Touch (ACTION_MOVE): 0:(1080.0,1122.1595)
+:Sending Touch (ACTION_UP): 0:(1080.0,1109.6678)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(1008.0,1705.0)
+:Sending Touch (ACTION_UP): 0:(992.7318,1703.4718)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(857.0,742.0)
+:Sending Touch (ACTION_UP): 0:(856.5538,745.2582)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.zhubajie.client/com.zhubajie.widget.gallery.ViewPagerActivity (has extras) } in package com.zhubajie.client
+:Sending Touch (ACTION_DOWN): 0:(300.0,1916.0)
+:Sending Touch (ACTION_MOVE): 0:(299.13675,1920.0)
+:Sending Touch (ACTION_UP): 0:(298.9557,1920.0)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(681.0,1209.0)
+:Sending Touch (ACTION_MOVE): 0:(679.5011,1208.6194)
+:Sending Touch (ACTION_MOVE): 0:(676.45795,1206.5887)
+:Sending Touch (ACTION_MOVE): 0:(673.8717,1206.0907)
+:Sending Touch (ACTION_UP): 0:(669.5242,1203.9211)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(823.0,230.0)
+:Sending Touch (ACTION_MOVE): 0:(804.6545,220.28818)
+:Sending Touch (ACTION_MOVE): 0:(798.4949,208.48836)
+:Sending Touch (ACTION_MOVE): 0:(783.1538,202.27391)
+:Sending Touch (ACTION_MOVE): 0:(770.0828,189.91403)
+:Sending Touch (ACTION_UP): 0:(767.0308,183.55548)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(746.0,1086.0)
+:Sending Touch (ACTION_UP): 0:(745.7983,1088.9897)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(292.0,568.0)
+:Sending Touch (ACTION_MOVE): 0:(300.48413,562.7987)
+:Sending Touch (ACTION_UP): 0:(317.73532,545.57306)
+Sleeping for 300 milliseconds
+    // Allowing start of Intent { cmp=com.zhubajie.client/com.zhubajie.widget.gallery.ViewPagerActivity (has extras) } in package com.zhubajie.client
+:Sending Touch (ACTION_DOWN): 0:(507.0,1075.0)
+:Sending Touch (ACTION_MOVE): 0:(515.13983,1087.4058)
+:Sending Touch (ACTION_MOVE): 0:(519.32947,1101.7966)
+:Sending Touch (ACTION_MOVE): 0:(521.32495,1112.9822)
+:Sending Touch (ACTION_UP): 0:(529.8924,1126.6056)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(353.0,1694.0)
+:Sending Touch (ACTION_UP): 0:(353.1264,1714.9915)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(18.0,1178.0)
+:Sending Touch (ACTION_MOVE): 0:(15.847184,1160.5104)
+:Sending Touch (ACTION_MOVE): 0:(14.427444,1148.1082)
+:Sending Touch (ACTION_MOVE): 0:(14.077369,1144.589)
+:Sending Touch (ACTION_MOVE): 0:(10.999993,1126.7194)
+:Sending Touch (ACTION_UP): 0:(8.809626,1114.7401)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(80.0,970.0)
+:Sending Touch (ACTION_MOVE): 0:(82.64051,967.8237)
+:Sending Touch (ACTION_MOVE): 0:(87.737114,961.89075)
+:Sending Touch (ACTION_MOVE): 0:(91.83542,955.34955)
+:Sending Touch (ACTION_MOVE): 0:(93.74109,951.37854)
+:Sending Touch (ACTION_MOVE): 0:(96.88975,948.4602)
+:Sending Touch (ACTION_MOVE): 0:(100.78104,942.8222)
+:Sending Touch (ACTION_MOVE): 0:(104.0804,937.92993)
+:Sending Touch (ACTION_MOVE): 0:(108.1785,932.3621)
+:Sending Touch (ACTION_MOVE): 0:(111.85611,932.25745)
+:Sending Touch (ACTION_UP): 0:(115.31673,931.36163)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(869.0,1511.0)
+:Sending Touch (ACTION_MOVE): 0:(868.2333,1525.591)
+:Sending Touch (ACTION_MOVE): 0:(866.5788,1540.4843)
+:Sending Touch (ACTION_MOVE): 0:(862.4087,1551.742)
+:Sending Touch (ACTION_MOVE): 0:(859.5758,1564.2151)
+:Sending Touch (ACTION_MOVE): 0:(855.5577,1574.768)
+:Sending Touch (ACTION_MOVE): 0:(853.33014,1591.2084)
+:Sending Touch (ACTION_UP): 0:(852.7822,1600.553)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(395.0,1531.0)
+:Sending Touch (ACTION_UP): 0:(395.00458,1538.1034)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(371.0,1798.0)
+:Sending Touch (ACTION_UP): 0:(364.0638,1792.8412)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(819.0,33.0)
+:Sending Touch (ACTION_MOVE): 0:(806.9298,32.928986)
+:Sending Touch (ACTION_MOVE): 0:(798.38385,32.519764)
+:Sending Touch (ACTION_MOVE): 0:(790.4845,31.981052)
+:Sending Touch (ACTION_MOVE): 0:(785.7567,31.608234)
+:Sending Touch (ACTION_MOVE): 0:(774.7232,31.392994)
+:Sending Touch (ACTION_MOVE): 0:(770.71643,31.15513)
+:Sending Touch (ACTION_UP): 0:(758.86475,30.879492)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(527.0,20.0)
+:Sending Touch (ACTION_MOVE): 0:(532.3442,15.889368)
+:Sending Touch (ACTION_MOVE): 0:(541.87726,15.273962)
+:Sending Touch (ACTION_MOVE): 0:(559.4943,13.235663)
+:Sending Touch (ACTION_MOVE): 0:(565.2956,10.772068)
+:Sending Touch (ACTION_MOVE): 0:(572.5705,9.542742)
+:Sending Touch (ACTION_MOVE): 0:(582.834,6.1344643)
+:Sending Touch (ACTION_MOVE): 0:(587.5105,1.877852)
+:Sending Touch (ACTION_MOVE): 0:(593.1721,0.0)
+:Sending Touch (ACTION_UP): 0:(595.9619,0.0)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_DOWN): 0:(691.0,904.0)
+:Sending Touch (ACTION_UP): 0:(692.825,895.76355)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(465.0,360.0)
+:Sending Touch (ACTION_UP): 0:(464.0825,359.11615)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+    // Allowing start of Intent { cmp=com.zhubajie.client/com.zhubajie.widget.gallery.ViewPagerActivity (has extras) } in package com.zhubajie.client
+:Sending Touch (ACTION_DOWN): 0:(898.0,1596.0)
+:Sending Touch (ACTION_MOVE): 0:(898.62445,1593.9954)
+:Sending Touch (ACTION_MOVE): 0:(899.605,1589.908)
+:Sending Touch (ACTION_MOVE): 0:(900.4738,1585.5266)
+:Sending Touch (ACTION_UP): 0:(901.2907,1580.3342)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(366.0,1495.0)
+    //[calendar_time:2019-07-24 16:47:18.463  system_uptime:27575040]
+    // Sending event #800
+:Sending Touch (ACTION_MOVE): 0:(367.7975,1503.287)
+:Sending Touch (ACTION_MOVE): 0:(377.28415,1513.1855)
+:Sending Touch (ACTION_MOVE): 0:(377.38434,1513.5796)
+:Sending Touch (ACTION_MOVE): 0:(386.46036,1517.0073)
+:Sending Touch (ACTION_MOVE): 0:(392.17896,1517.7919)
+:Sending Touch (ACTION_MOVE): 0:(393.85052,1521.098)
+:Sending Touch (ACTION_MOVE): 0:(395.03973,1521.2667)
+:Sending Touch (ACTION_MOVE): 0:(396.48117,1527.0105)
+:Sending Touch (ACTION_MOVE): 0:(398.7518,1531.2438)
+:Sending Touch (ACTION_UP): 0:(399.8872,1541.0116)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(529.0,1222.0)
+:Sending Touch (ACTION_UP): 0:(544.8947,1219.5272)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(20.0,332.0)
+    // activityResuming(com.zhubajie.client)
+:Sending Touch (ACTION_UP): 0:(7.8613243,342.16544)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(574.0,1421.0)
+:Sending Touch (ACTION_UP): 0:(564.09344,1427.367)
+Sleeping for 300 milliseconds
+    // activityResuming(com.zhubajie.client)
+    // Allowing start of Intent { cmp=com.zhubajie.client/com.zhubajie.bundle_server_new.ui.ServiceDetailInfoActivity (has extras) } in package com.zhubajie.client
+:Sending Touch (ACTION_DOWN): 0:(880.0,1279.0)
+:Sending Touch (ACTION_UP): 0:(883.02905,1279.7856)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(921.0,1681.0)
+:Sending Touch (ACTION_UP): 0:(922.6581,1670.3109)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(479.0,1057.0)
+:Sending Touch (ACTION_UP): 0:(469.1278,1059.2048)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(480.0,148.0)
+:Sending Touch (ACTION_UP): 0:(494.77353,162.427)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(692.0,182.0)
+:Sending Touch (ACTION_MOVE): 0:(682.83325,180.25668)
+:Sending Touch (ACTION_MOVE): 0:(681.33875,168.48116)
+:Sending Touch (ACTION_MOVE): 0:(671.64355,164.54056)
+:Sending Touch (ACTION_UP): 0:(662.87714,160.63203)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(1049.0,370.0)
+:Sending Touch (ACTION_MOVE): 0:(1043.5817,364.91226)
+:Sending Touch (ACTION_MOVE): 0:(1041.3832,357.7567)
+:Sending Touch (ACTION_MOVE): 0:(1032.6674,354.06323)
+:Sending Touch (ACTION_MOVE): 0:(1024.9606,353.59927)
+:Sending Touch (ACTION_MOVE): 0:(1022.80383,352.71548)
+:Sending Touch (ACTION_UP): 0:(1005.4302,346.57394)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(290.0,622.0)
+:Sending Touch (ACTION_MOVE): 0:(291.19275,633.1981)
+:Sending Touch (ACTION_MOVE): 0:(295.87268,633.5373)
+:Sending Touch (ACTION_UP): 0:(300.87573,646.429)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(538.0,1812.0)
+:Sending Touch (ACTION_UP): 0:(539.41144,1814.1104)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(288.0,1158.0)
+:Sending Touch (ACTION_MOVE): 0:(282.70062,1154.954)
+:Sending Touch (ACTION_MOVE): 0:(280.54953,1152.6736)
+:Sending Touch (ACTION_MOVE): 0:(272.73758,1151.692)
+:Sending Touch (ACTION_MOVE): 0:(261.71655,1151.4299)
+:Sending Touch (ACTION_MOVE): 0:(252.54807,1148.714)
+:Sending Touch (ACTION_MOVE): 0:(250.9935,1147.3328)
+:Sending Touch (ACTION_UP): 0:(250.53886,1144.1951)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(295.0,1479.0)
+:Sending Touch (ACTION_UP): 0:(279.4985,1482.9913)
+Sleeping for 300 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(297.0,952.0)
+:Sending Touch (ACTION_UP): 0:(296.24808,954.09705)
+Sleeping for 300 milliseconds
+// CRASH: com.zhubajie.client:remote (pid 26427)
+// Short Msg: java.lang.NullPointerException
+// Long Msg: java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+// Build Label: OPPO/R9sk/R9sk:6.0.1/MMB29M/1528528402:user/release-keys
+// Build Changelist: eng.root.20190124.100902
+// Build Time: 1548296012000
+// java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+// 	at io.rong.imkit.utils.SystemUtils.getCurProcessName(SystemUtils.java:17)
+// 	at io.rong.imkit.RongIM.logout(RongIM.java:487)
+// 	at io.rong.servicekit.CustomerServiceKit$11.onSuccess(CustomerServiceKit.java:955)
+// 	at io.rong.servicekit.http.HttpClient$2.onResponse(HttpClient.java:93)
+// 	at okhttp3.RealCall$AsyncCall.execute(RealCall.java:206)
+// 	at okhttp3.internal.NamedRunnable.run(NamedRunnable.java:32)
+// 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+// 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+// 	at java.lang.Thread.run(Thread.java:818)
+// 
+** Monkey aborted due to error.
+Events injected: 854
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=4 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=63419ms (0ms mobile, 0ms wifi, 63419ms not connected)
+** System appears to have crashed at event 854 of 1000 using seed 1564093672841
